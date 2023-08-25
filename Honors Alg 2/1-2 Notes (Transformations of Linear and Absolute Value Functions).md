@@ -52,17 +52,17 @@
 ### y = f(ax)
 +multiplying the inputs by A before evaluating stretches the graph horizontally (away from y axis) when A is greater than 1 and shrinks when less than one
 
-#Vertical Stretches/shrinks
+# Vertical Stretches/shrinks
 ### y = a[f(X)]
-+multiplying the outputs by A stretches the graph vertically (away from x axis) when a is greater than one and shrinks the a is less than one
++ multiplying the outputs by A stretches the graph vertically (away from x axis) when a is greater than one and shrinks the a is less than one
 
-#Ex 3: f(x) = |x-3| - 5
+# Ex 3: f(x) = |x-3| - 5
 ### A) Write a function g whose graph is a horizontal shrink of the graph f by 1/3
-+***multiply x by 3***
-+g(x)= |3x-3|-5
++ ***multiply x by 3***
++ g(x)= |3x-3|-5
 
 ### B) Write a function of h whose graph is a vertical stretch of the graph of f by a factor of 2
 + h(x) = 2|x-3| - 10 ***multiply the outside by stretch factor***
 
-#Ex 4: Let the graph of G be a vertical shrink by a factor of 0.25 followed by a translation of 3 units up of the graph f(x) = x
+# Ex 4: Let the graph of G be a vertical shrink by a factor of 0.25 followed by a translation of 3 units up of the graph f(x) = x
 + g(x) = 1/4x + 3
