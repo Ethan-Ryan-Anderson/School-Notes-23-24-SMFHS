@@ -1,7 +1,7 @@
-###Objectives, 
-###Identify family of functions, describe transformations of parent functions describe combinations of transformations
+### Objectives, 
+### Identify family of functions, describe transformations of parent functions describe combinations of transformations
 
-#Funtion familys 
+# Funtion familys 
 funtions that share key characteristics, parent function is the most basic function in a family (if all functions are parabolas the parent would be a basic parabola)
 
 #Basic parent functions 
