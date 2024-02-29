@@ -23,3 +23,6 @@
 ### thats it tbh Ln is just a log in base E
 # Graphs
 ### Parents Functions
+![Screenshot 2024-02-29 021509](https://github.com/Ethan-Ryan-Anderson/School-Notes-23-24-SMFHS/assets/118407438/f5809fb0-166a-4ee9-88a8-5d72038f4ee7)
+### Types of transforms
+![Screenshot 2024-02-29 021711](https://github.com/Ethan-Ryan-Anderson/School-Notes-23-24-SMFHS/assets/118407438/4da13a7d-8f5f-4f0f-adce-59699a6b1925)
