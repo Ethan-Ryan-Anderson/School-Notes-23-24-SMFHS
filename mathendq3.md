@@ -14,3 +14,5 @@ multiply it to make a perfect 4th root, in this case 81, and 3*27 makes 81 so ma
 > [!NOTE]
 > Pretend all the $\sqrt{.}$ are actually 4th roots and not squared roots
 
+# EXoponets notes
+Allways add
